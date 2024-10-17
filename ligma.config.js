@@ -1,5 +1,9 @@
 module.exports = {
     dsa: [
+        "InsertionSort",
+        "MergeSort",
+        "DijkstraList",
+        "PrimsList",
         "DFSOnBST",
         "LRU",
         "LinearSearchList",
